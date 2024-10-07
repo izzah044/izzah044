@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Izza Fatima]!
+# Hi there 👋, I'm Izza Fatima!
 
 - 💻 Software Developer | Open Source Enthusiast
 - 🔧 Skilled in [Python/DSA/SEO]
